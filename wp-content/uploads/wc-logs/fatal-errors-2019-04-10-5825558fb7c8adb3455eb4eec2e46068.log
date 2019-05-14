@@ -1,0 +1,2 @@
+2019-04-10T07:02:08+00:00 CRITICAL Allowed memory size of 94371840 bytes exhausted (tried to allocate 12288 bytes) in /home/dh_t483s2/workspace3.weavers-web.com/aslechris/wp-content/themes/prequelle/inc/frontend/utility-functions.php on line 121
+

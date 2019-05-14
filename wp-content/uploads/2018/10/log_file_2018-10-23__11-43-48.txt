@@ -1,0 +1,218 @@
+
+---Downloaded files---
+The import files for: All Demo Pages were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://workspace3.weavers-web.com/aslechris
+Data file = /home/dh_t483s2/workspace3.weavers-web.com/aslechris/wp-content/uploads/2018/10/demo-content-import-file_2018-10-23__11-43-48.xml
+Widget file = /home/dh_t483s2/workspace3.weavers-web.com/aslechris/wp-content/uploads/2018/10/demo-widgets-import-file_2018-10-23__11-43-48.json
+Customizer file = /home/dh_t483s2/workspace3.weavers-web.com/aslechris/wp-content/uploads/2018/10/demo-customizer-import-file_2018-10-23__11-43-48.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "33622" (Media)
+[ERROR] Failed to import "nav_logo" (Media)
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Image - No Title - Imported
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Tag Cloud - No Title - Imported
+Instagram - No Title - Imported
+
+Shop Sidebar : 
+
+Product Search - No Title - Imported
+Filter Products by Price - No Title - Imported
+Products - Featured Products - Imported
+Product Categories - Product categories - Imported
+
+Vertical Bar Panel Sidebar : 
+
+Products - New Products - Imported
+Instagram - Instagrams - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

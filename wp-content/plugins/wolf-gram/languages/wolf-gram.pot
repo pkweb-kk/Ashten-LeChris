@@ -1,0 +1,201 @@
+# Copyright (C) 2018 WolfThemes
+# This file is distributed under the same license as the Wolf Gram package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wolf Gram 1.5.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wolf-gram\n"
+"POT-Creation-Date: 2018-01-13 16:26:57+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: inc/admin/class-wg-admin.php:56 inc/admin/class-wg-options.php:207
+msgid "Settings"
+msgstr ""
+
+#: inc/admin/class-wg-options.php:40 inc/widgets/class-wg-widget-gallery.php:34
+#: inc/widgets/class-wg-widget-gallery.php:57
+msgid "Instagram"
+msgstr ""
+
+#: inc/admin/class-wg-options.php:68
+msgid "Number of photos to display in the Instagram gallery (max 30)"
+msgstr ""
+
+#: inc/admin/class-wg-options.php:69
+msgid "Lightbox (thumbnails widgets)"
+msgstr ""
+
+#: inc/admin/class-wg-options.php:70
+msgid "Widget Images Link"
+msgstr ""
+
+#: inc/admin/class-wg-options.php:71
+msgid "Gallery Images Link"
+msgstr ""
+
+#: inc/admin/class-wg-options.php:72
+msgid "Instructions"
+msgstr ""
+
+#: inc/admin/class-wg-options.php:130 inc/admin/class-wg-options.php:143
+msgid "Open in lightbox"
+msgstr ""
+
+#: inc/admin/class-wg-options.php:131 inc/admin/class-wg-options.php:144
+msgid "Open Instagram Page"
+msgstr ""
+
+#: inc/admin/class-wg-options.php:155
+msgid ""
+"You can display the gallery in your post or page with the following "
+"shortcode:"
+msgstr ""
+
+#: inc/admin/class-wg-options.php:174
+msgid ""
+"WolfGram is a Wordpress plugin that uses the Instagram API to display your "
+"Instgram feed."
+msgstr ""
+
+#: inc/admin/class-wg-options.php:175
+msgid ""
+"You need to link the WolfGram app to your Instagram account and get your "
+"access key to be able to use the WolfGram features."
+msgstr ""
+
+#: inc/admin/class-wg-options.php:176
+msgid "To do so, simply follow the link below and follow the instructions."
+msgstr ""
+
+#: inc/admin/class-wg-options.php:177
+msgid "Get your access key"
+msgstr ""
+
+#: inc/admin/class-wg-options.php:180
+msgid "Access Key"
+msgstr ""
+
+#: inc/admin/class-wg-options.php:181
+msgid "Link your Instagram account"
+msgstr ""
+
+#: inc/admin/class-wg-options.php:190
+msgid "We couldn't link your account with this code."
+msgstr ""
+
+#: inc/admin/class-wg-options.php:199
+msgid "You can now use the WolfGram."
+msgstr ""
+
+#: inc/admin/class-wg-options.php:200
+msgid "You can log out to change your account and get a new code."
+msgstr ""
+
+#: inc/admin/class-wg-options.php:204
+msgid "Reset"
+msgstr ""
+
+#: inc/admin/class-wg-options.php:211
+msgid "Save Changes"
+msgstr ""
+
+#: inc/wg-functions.php:136
+msgid "Instagram @%s"
+msgstr ""
+
+#: inc/wg-functions.php:351
+msgid ""
+"Please enter your access key and link your Instagram account via the <a "
+"href=\"%s\">admin panel</a> to display your images."
+msgstr ""
+
+#: inc/wg-functions.php:353
+msgid "No Instagram image yet."
+msgstr ""
+
+#: inc/wg-functions.php:359
+msgid "No Instagram photo found. Try to reset your access key."
+msgstr ""
+
+#: inc/wg-functions.php:361
+msgid "No Instagram photo found."
+msgstr ""
+
+#: inc/widgets/class-wg-widget-gallery.php:32
+msgid "Display your last instagram shots"
+msgstr ""
+
+#: inc/widgets/class-wg-widget-gallery.php:118
+msgid "Instagrams"
+msgstr ""
+
+#: inc/widgets/class-wg-widget-gallery.php:137
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/class-wg-widget-gallery.php:141
+msgid "Optional Text"
+msgstr ""
+
+#: inc/widgets/class-wg-widget-gallery.php:145
+msgid "Count"
+msgstr ""
+
+#: inc/widgets/class-wg-widget-gallery.php:149
+msgid "Display"
+msgstr ""
+
+#: inc/widgets/class-wg-widget-gallery.php:151
+msgid "thumbnails"
+msgstr ""
+
+#: inc/widgets/class-wg-widget-gallery.php:152
+msgid "slideshow"
+msgstr ""
+
+#: inc/widgets/class-wg-widget-gallery.php:156
+msgid "Time between animation in milliseconds"
+msgstr ""
+
+#: wolf-gram.php:126
+msgid ""
+"%1$s needs at least PHP %2$s installed on your server. You have version "
+"%3$s currently installed. Please contact your hosting service provider if "
+"you're not able to update PHP by yourself."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Wolf Gram"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wolfthemes.com/plugin/wolf-gram/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A WordPress Plugin to Display your Instagram Feed."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WolfThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wolfthemes.com"
+msgstr ""

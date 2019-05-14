@@ -1,0 +1,4 @@
+2019-04-25T13:59:49+00:00 CRITICAL Allowed memory size of 94371840 bytes exhausted (tried to allocate 4414208 bytes) in /home/dh_t483s2/workspace3.weavers-web.com/aslechris/wp-content/plugins/wolf-visual-composer/inc/utility-functions.php on line 423
+
+2019-04-25T14:21:07+00:00 CRITICAL Allowed memory size of 94371840 bytes exhausted (tried to allocate 8192 bytes) in /home/dh_t483s2/workspace3.weavers-web.com/aslechris/wp-content/themes/prequelle/inc/frontend/utility-functions.php on line 121
+
