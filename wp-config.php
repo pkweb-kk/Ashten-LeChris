@@ -29,7 +29,7 @@ define('DB_USER', 'aslechrisusr');
 define('DB_PASSWORD', 'TK4B/BMU#RTp4!Q>');
 
 /** MySQL hostname */
-define('DB_HOST', 'mysql.workspace3.weavers-web.com');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
